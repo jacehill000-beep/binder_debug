@@ -368,6 +368,8 @@ class BinderVisitor:
                 "internal_strong_refs",
                 "local_weak_refs",
                 "local_strong_refs",
+                "ptr", 
+                "cookie",
                 "tmp_refs",
                 "refs",
             ]
