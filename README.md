@@ -1,5 +1,5 @@
 # binder_debug
-used in real device
+used in real device and qemu
 
 This script is derived from pwndbg.
 
